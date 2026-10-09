@@ -1,4 +1,4 @@
-# 👋 Hey, I'm K.Narendra
+# 👋 Hey, I'm K.Narendran
 
 ### 🚀 From Learning Code to Building Intelligent Systems
 
