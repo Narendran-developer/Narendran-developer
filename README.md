@@ -29,7 +29,3 @@ If you're also learning to code, building something interesting, or exploring AI
 *"Every expert was once a beginner who kept going."*
 
 ⭐ Thanks for stopping by!
-
-
-- ⚡ Fun fact: ...
--->
